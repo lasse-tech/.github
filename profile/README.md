@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://lasse-tech.de"><img src="lasse-tech.svg" height="64" alt="lasse tech"></a>
+  <a href="https://lasse-tech.de"><img src="lasse-tech.png" height="64" alt="lasse tech"></a>
 </p>
 
 <p align="center">
