@@ -5,4 +5,4 @@ Defaults for every public repository of [lasse tech](https://github.com/lasse-te
 | File | Effect |
 |---|---|
 | `FUNDING.yml` | Sponsor button: [buymeacoffee.com/gossardla](https://buymeacoffee.com/gossardla) |
-| `profile/README.md` | organisation profile on github.com/lasse-tech |
+| `profile/README.md` | profile of github.com/lasse-tech |
